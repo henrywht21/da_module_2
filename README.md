@@ -1,2 +1,4 @@
 # da_module_2
 Homework 2 - Scripting with VBA
+
+This project examines changes in different stocks over quarterly time periods and their related stock volume using and excel workbook and visual basic. With the data provided, visual basic was needed for the analysis given the nearly 100,000 rows of the workbook across four sheets. The VBA script utilizes conditionals and for loops to summarize the large dataset into two smaller dashboards per sheet. In these dashboarsds, information about each stock as well as which had the greatest percent increase, percent decrease, and volume traded may be found. 
